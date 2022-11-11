@@ -1,14 +1,25 @@
 body {
-  background-color: #F9F2ED;
+  background-color: #FFEFD6;
+  font-family: "Andale Mono", "Lucida Console", "Courier", monospace;
 }
 
 hr {
-  width: 10%;
+  border-color: #F2DEBA;
   border-style: dotted none none;
-  border-color: #3AB0FF;
   border-width: 8px;
+  width: 10%;
 }
 
-img {
+h1, h3 {
+  color: #0E5E6F;
+}
+
+p, ul, table {
+  color: #3A8891;
+}
+
+.profile-photo {
   width: 100%;
+  border: 20px solid #F2DEBA;
+  border-radius: 50%;
 }
