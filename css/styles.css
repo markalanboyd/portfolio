@@ -7,7 +7,6 @@ hr {
   border-color: #F2DEBA;
   border-style: dotted none none;
   border-width: 8px;
-  width: 10%;
 }
 
 h1, h3 {
@@ -20,6 +19,5 @@ p, ul, table {
 
 .profile-photo {
   width: 100%;
-  border: 20px solid #F2DEBA;
   border-radius: 50%;
 }
