@@ -1,2 +1,2 @@
 # portfolio
-A portfolio of my work
+A showcase for my work in Python and Web Development.
